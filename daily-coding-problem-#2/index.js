@@ -11,4 +11,4 @@ function Problem002(arr) {
   return result
 }
 
-Problem002([[1, 2, 3, 4, 5]]); // [120, 60, 40, 30, 24]
+Problem002([1, 2, 3, 4, 5]); // [120, 60, 40, 30, 24]
